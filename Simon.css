@@ -1,0 +1,84 @@
+body {
+    text-align: center;
+    font-family: "Gill Sans", sans-serif;
+
+    /* background-image: url('abcd.jpg');
+    background-size: cover; */
+}
+
+@font-face {
+    font-family: 'Asimovian';
+    src: url('path/to/your/asimovian-font.woff2') format('woff2');
+    /* Add other font file formats if you have them */
+  }
+  
+  .asimovian-regular {
+    font-family: "Asimovian", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+
+  .asimovian-regular {
+    font-family: "Asimovian", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+.montserrat-h2{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+
+.btnn {
+    height: 200px;
+    width: 200px;
+
+    border-radius: 30px;
+
+    border: 1.5mm ridge black;
+    margin: 0.5rem;
+
+    /* box-shadow: 10px 5px 2px rgb(0, 0, 0); */
+}
+
+.div-btn
+{
+    /* // On same line  */
+    display: flex;
+    justify-content: center;
+}
+
+.first {
+    background-color: #d95980;
+}
+
+.second {
+    background-color: #63aac0;
+}
+
+.third {
+    background-color: #f99b45;
+}
+
+.fourth {
+    background-color: #819ff9;
+}
+ 
+
+/* ------------------------------------------------------------------------------- */
+
+.flash {
+    background-color: white;
+}
+
+.user_flash {
+    background-color: gold;
+}
+
+/* #xxx {
+    background-color: red;
+} */
